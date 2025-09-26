@@ -1,1 +1,1 @@
-All files public. Repository will be updated during the course 
+This repository contains all files from the PE&RC course "Theoretical Ecology" (2025). The repository will be updated during the course 
